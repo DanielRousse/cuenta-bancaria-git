@@ -1,0 +1,7 @@
+*   dbf6687 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from DanielRousse/feature/retiros
+|\  
+| * b2fd2c6 Dice cuántos retiros fueron gratis
+| * b73885c Muestra el número de retiros
+|/  
+* cd96a1e MP-1: mi nombre en el estado de cuenta
+* 2eeb24e MP-0: la cuenta bancaria
